@@ -18,7 +18,7 @@ A MERN stack based Museum Exhibit Management & Ticket Booking application.
 - Node.js
 
 ## 📄 Project Document
-Complete project documentation (57 pages) is included for academic reference.
+Complete project documentation is included for academic reference.
 
 ## 👨‍💻 Author
 Maniram – Fresher | MERN Stack Developer
